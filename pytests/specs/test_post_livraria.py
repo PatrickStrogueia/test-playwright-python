@@ -1,4 +1,4 @@
-import pytest
+from pytests.support.hooks import *
 from pytests.mocks.livraria_mock import *
 from pytests.clients.post_livraria_client import PostLivrariaClient
 
